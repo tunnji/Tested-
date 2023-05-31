@@ -1,1 +1,1 @@
-# Tested- is a fslse project im using to get used to GitHub interface.
+# Tested- is a fslse project I'm using to get used to GitHub interface.
